@@ -5,6 +5,7 @@ import { Component } from "@angular/core";
 @Component({
     selector:"app-contador",
     templateUrl:"./contar.component.html",
+    styleUrls:["./contar.component.css"]
     
 })
 export class ContarComponent{

@@ -1,4 +1,6 @@
-<h2>Contador: {{count}}</h2>
+<h2 class="contador">Contador: <span>{{count}}</span></h2>
 
-<button (click)="add()">+</button>
-<button (click)="dec()">-</button>
+<div class="contenedorBtns">
+    <button class="btn" (click)="dec()">-</button>
+    <button class="btn" (click)="add()">+</button> 
+</div>

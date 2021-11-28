@@ -1,0 +1,20 @@
+.contador {
+  text-align: center;
+}
+.btn {
+  border-style: none;
+  padding: 10px 30px;
+  background-color: rgb(23, 170, 96);
+  border-radius: 5px;
+  margin-left: 15px;
+  font-size: 30px;
+  color: rgb(253, 253, 253);
+}
+
+.contenedorBtns {
+  text-align: center;
+}
+
+.contador span {
+  color: rgb(11, 143, 51);
+}
